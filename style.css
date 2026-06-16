@@ -1,7 +1,13 @@
 body {
-  Color: YellowGreen;
-  background-color: HoneyDew; 
-  max-width: 600px;
-  margin: auto;
+  background-color: YellowGreen;
 }
 
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
